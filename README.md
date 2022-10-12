@@ -3,6 +3,10 @@
 ## techs
 
 - typescript
+- reducers
+- context
+
 - styled-components
 - react-router-dom
-- context
+- react-hook-form
+- immer -> facilitates state manipulation
